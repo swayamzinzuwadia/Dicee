@@ -1,0 +1,2 @@
+# Dicee
+The Dice Game 
